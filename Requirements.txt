@@ -1,0 +1,50 @@
+
+
+1. Python >=3.6
+2. psutil>=5.8.0
+3. Text editor(Vscode,notepoad etc)
+
+
+
+
+       HOW TO INSTALL THE ABOVE LIBRARIES IN CASE YOU HAVE NOT :
+
+
+1. Python 3.6 Installation:
+
+i. Visit the Python website: https://www.python.org/downloads/
+ii. Scroll down to find the section labeled "Looking for a specific release?" and click on "View All Python Releases."
+iii. Scroll down the page to find Python 3.6.>=
+iv. Download the appropriate installer for your operating system (Windows, macOS, or Linux).
+v. Run the installer and follow the installation instructions. Make sure to check the option "Add Python to PATH" during installation on Windows.
+
+
+
+2. Installing psutil>=5.8.0 and wmi:
+
+i.  Open a command prompt (on Windows) or terminal (on macOS or Linux).
+
+ii. Run the following command to install psutil:
+
+ ' pip install psutil>=5.8.0 ' (copy and paste in your command prompt)
+
+iii. If Python 3.6 is the default Python version, the above command should work. 
+If not, you may need to specify the Python version explicitly by using pip3 instead of pip:
+' pip3 install psutil>=5.8.0 ' (copy and paste in your command prompt)
+
+
+Now past this on a new line: pip install wmi
+
+
+
+3. To install Visual Studio Code (VSCode):
+
+i.  Download VSCode:
+
+ii.  Go to https://code.visualstudio.com/download.
+iii. Choose the installer for your operating system (Windows, macOS, or Linux).
+iv.  Install VSCode:
+
+v.   Run the downloaded installer.
+vi.  Follow the installation instructions.
+vii. Optional: Install Python-related extensions from within VSCode for enhanced Python development experience.

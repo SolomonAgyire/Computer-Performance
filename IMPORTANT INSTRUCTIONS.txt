@@ -1,0 +1,18 @@
+1. Make sure all the necessary libraries are installed(python, pesutil, and wmi), refer to requirements.txt if not.
+2. Make sure you quit any other applications runnning other than the text editor you are using(Vscode,Notepad etc)
+3. Run the script
+4. A csv file will be generated (performance_metrics.csv)
+
+5. Send the csv file to [sagyire83@gmail.com] or whastup at 2659108816
+
+That's all,thank you for taking part in this exercise.
+
+
+
+!!!!!!!!! DISCLAIMER !!!!!!
+
+1. Be assured that no personal data is collected from your machine(only the performance)
+2. Your Machine's data will not be shared with any third party agency, it's purposely for research work.
+
+
+     THANK YOU FOR YOUR COOPERATION
